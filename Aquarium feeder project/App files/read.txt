@@ -1,0 +1,4 @@
+tx from bluetooth to 0->rx on arduino
+
+set same baud rate on program and serial monitor
+
